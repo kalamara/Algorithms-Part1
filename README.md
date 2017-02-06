@@ -1,3 +1,3 @@
 # Algorithms-Part1
 
-Give as programm argument ./data/1Kints.txt
+Give as program argument ./data/1Kints.txt
